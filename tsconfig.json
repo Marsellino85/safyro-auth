@@ -23,6 +23,7 @@
       "@components/*": ["app/components/*"],
       "@assets/*": ["public/assets/*"],
       "@lib/*": ["lib/*"],
+      "@/lib/*": ["lib/*"],
       "@/*": ["app/*"]
     }
   },
